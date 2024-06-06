@@ -18,7 +18,6 @@ A live demo of the app can be found [here](#).
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
